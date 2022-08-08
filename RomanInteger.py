@@ -2,9 +2,9 @@ dic = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
 lis = ['I', 'V', 'X', 'L', 'C', 'D', 'M']
 
 
-s='MCMXCIV'
+RomanString='MCMXCIV'
 IN = 0
-Str = list(s)
+Str = list(RomanString)
 Str.reverse()
 i = 0
 
